@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&color=FFFFFF&lines=Hi+there+!+%3AD;I'm+Im-Not-God;Welcome+to+my+profile+!;I'm+a+tech+enthusiast+from+France;and+I'm+always+learning+new+things+!)](https://git.io/typing-svg)
 
 <!-- Badges -->
-[![GitHub Follow](https://img.shields.io/github/followers/Im-Not-God?color=blue&label=GitHub%20Followers&logo=github&logoColor=black)](https://github.com/Tenclea?tab=followers)
+[![GitHub Follow](https://img.shields.io/github/followers/Im-Not-God?color=blue&label=GitHub%20Followers&logo=github&logoColor=black)](https://github.com/Im-Not-God?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Im-Not-God)](https://github.com/Im-Not-God)
 [![GitHub stars](https://img.shields.io/github/stars/Im-Not-God)](https://github.com/Im-Not-God)
 
