@@ -19,6 +19,9 @@
 <img align="center" alt="Im-Not-God GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Not-God&theme=dark&hide_border=true">
 </p>
 
+<!-- Top Langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Not-God&layout=compact&theme=dark&hide_border=true)](https://github.com/Im-Not-God/github-readme-stats)
+
 
 Leave a star on [my profile](https://github.com/Im-Not-God/Im-Not-God) if you liked it ! ❤
 <!--
