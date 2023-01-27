@@ -20,7 +20,7 @@
 </p>
 
 <!-- Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Not-God&layout=compact&theme=dark&hide_border=true)](https://github.com/Im-Not-God/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Not-God&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Leave a star on [my profile](https://github.com/Im-Not-God/Im-Not-God) if you liked it ! ❤
