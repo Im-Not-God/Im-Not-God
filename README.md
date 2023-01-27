@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&color=FFFFFF&lines=Hi+there+!+%3AD;I'm+Im-Not-God;Welcome+to+my+profile+!;I'm+a+tech+enthusiast+from+France;and+I'm+always+learning+new+things+!)](https://git.io/typing-svg)
 
 <!-- Badges -->
@@ -9,9 +8,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/Im-Not-God)](https://github.com/Im-Not-God)
 
 <!-- Trophies -->
+### Trophies
 <img alt="Im-Not-God GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true">
 
 <!-- Stats -->
+### Stats
 <p>
 <img align="center" alt="Im-Not-God GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Im-Not-God&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark&hide=contribs">
 <br/>
